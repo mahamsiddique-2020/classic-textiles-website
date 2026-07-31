@@ -62,7 +62,7 @@ export default function Footer() {
               </div>
               <div className="footer-contact-item">
                 <Phone className="w-4 h-4 text-accent flex-shrink-0" />
-                <span>Ph: +92 3008650916 | Mob: +92 3117706944</span>
+                <span>Ph: +92 3008650916 | Mob: +92 3118160916</span>
               </div>
               <div className="footer-contact-item">
                 <Mail className="w-4 h-4 text-accent flex-shrink-0" />

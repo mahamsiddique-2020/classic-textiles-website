@@ -84,7 +84,7 @@ export default function ContactSection() {
                 </div>
                 <div className="info-text">
                   <span className="info-label">Mobile</span>
-                  <a href="tel:+923117706944" className="info-link">+92 311 770 6944</a>
+                  <a href="tel:+923118160916" className="info-link">+92 311 816 0916</a>
                 </div>
               </div>
             </div>
